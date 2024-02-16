@@ -1,4 +1,4 @@
-## Code For TAN Model
+## Code For TAN (Temporal attention networks for biomedical hypothesis generation)
 
 **Temporal attention networks for biomedical hypothesis generation**  Accepted by ***The Journal of Biomedical informatics***. [link](https://www.sciencedirect.com/science/article/pii/S153204642400025X?dgcid=author)
 
