@@ -1,5 +1,8 @@
 ## Code For TAN Model
 
+**Temporal attention networks for biomedical hypothesis generation**  Accepted by ***The Journal of Biomedical informatics***. [link](https://www.sciencedirect.com/science/article/pii/S153204642400025X?dgcid=author)
+
+
 ### Data
 The link of all three datasets is [here](https://pan.baidu.com/s/1V6Pyj4SZIcbkP77vQ93u5g?pwd=wh1w). Please download and unzip them to data folder.
 
